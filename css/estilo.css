@@ -1,0 +1,34 @@
+.card {
+
+    width: 25rem;
+    height: auto;
+}
+
+
+.ui.brown.buttons .button {
+    background-color: #a5673fd1;
+    color: #fff;
+    text-shadow: none;
+    background-image: none;
+}
+
+.ui.brown.button:hover, .ui.brown.buttons .button:hover {
+    background-color: #976833;
+    color: #fff;
+    text-shadow: none;
+}
+
+
+body {
+
+    background-color: rgba(128, 128, 128, 0.699)!important;
+}
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
